@@ -1,0 +1,9 @@
+.mi-div {
+    float: right; 
+    margin-right: 10px; 
+    background-color: aqua;
+}
+body{
+    background: linear-gradient(to top, rgb(163, 26, 8), rgb(161, 92, 14));
+    background-repeat: no-repeat;
+}
